@@ -1,4 +1,3 @@
-https://github.com/ulisesjcaroflores/Week-0--Computations-in-Quarto/blob/main/computations.qmd
 ---
 title: Quarto Computations
 echo: false
